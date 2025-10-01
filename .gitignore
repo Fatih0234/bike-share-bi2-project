@@ -80,6 +80,9 @@ Thumbs.db
 *.pickle
 *.pkl
 
+# Large HTML files (interactive maps)
+*heatmap*.html
+
 # Sensitive information
 *.env
 .env
